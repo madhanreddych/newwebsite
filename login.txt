@@ -1,2 +1,6 @@
 This is branch2 code asdfghr
+<<<<<<< HEAD
 new changes from mohan1werr
+=======
+new changes from mohan123
+>>>>>>> 67f81df9efbca9131f6c4f4edc0d08b9e54476dd
